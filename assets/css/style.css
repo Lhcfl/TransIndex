@@ -4,6 +4,8 @@
     --primary-rgb: 0,0,0;
     --secondary-rgb: 255,255,255;
     
+    --list-a-color: #444444;
+    --active-list-a-color: #222222;
     --title-bg: #fafafaf0;
     --title-text: #222222;
     --border: #4f4f4f;
@@ -69,4 +71,28 @@ body{
     list-style: none;
     margin: 0 0;
     padding: 10px;
+}
+.timeline .card a {
+    text-decoration: none;
+    font-size: 13px;
+    color: var(--list-a-color);
+    transition: all 0.15s;
+}
+.timeline .card a:hover {
+    
+    color: var(--active-list-a-color);
+}
+h2 {
+    margin: 0;
+}
+.list-item{
+    color: rgba(var(--primary-rgb), 0.9);
+}
+.list-item a{
+    color: rgba(var(--primary-rgb), 0.6);
+    transition:all 0.2s;
+    text-decoration: none;
+}
+.list-item a:hover{
+    color: rgba(var(--primary-rgb), 0.9);
 }

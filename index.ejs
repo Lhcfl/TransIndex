@@ -28,6 +28,7 @@
     <div class="main-content">
         <% for(const part of kuaer.data) { %>
             <div class="card">
+                <a name= <%= btoa(encodeURIComponent(part.title)) %> ></a>
                 <h2>
                     <%= part.title %>
                 </h2>
@@ -52,16 +53,10 @@
             <ul>
                 <% for(const part of kuaer.data) { %>
                     <li>
-                        <%= part.title %>
-                        <!-- <ul>
-                            <% for(const item of part.data) { %>
-                                <% if (item.type=="p" ) { %>
-                                    <li>
-                                        <%= item.text %>
-                                    </li>
-                                <% } %>
-                            <% } %>
-                        </ul> -->
+                        <a href=<%= "#" + btoa(encodeURIComponent(part.title)) %>  >
+                            <%= part.title %>
+                        </a>
+                        
                     </li>
                 <% } %>
             </ul>
