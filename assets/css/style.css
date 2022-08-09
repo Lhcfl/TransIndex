@@ -15,6 +15,13 @@
 }
 body{
     background-color: #eeeeee;
+    background-image:url(
+        https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2Fc3b022200df811093b0ac70cd6dba5151ee4c28f.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1661098606&t=3693d73fae9cc9feb44a2065ff2b7f53
+    );
+    background-position:center;
+    background-attachment:fixed;
+    background-size:cover;
+    background-repeat:no-repeat;
 }
 .main-content {
     width:70%;
