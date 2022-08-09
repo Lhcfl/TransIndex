@@ -1,0 +1,112 @@
+{
+    "title": "跨性别导航",
+    "data": [
+        {
+            "title": "MtF",
+            "data": [
+                {
+                    "type": "p",
+                    "text": "中文"
+                },
+                {
+                    "type": "a",
+                    "text": "MtF.wiki",
+                    "href": "https://mtf.wiki"
+                },
+                {
+                    "type": "a",
+                    "text": "MtF 指南针",
+                    "href": "https://mtf.party"
+                },
+                {
+                    "type": "a",
+                    "text": "MtF Hub",
+                    "href": "https://hub.mtf.party/explore"
+                },
+                {
+                    "type": "a",
+                    "text": "MtF 小站",
+                    "href": "https://mtf.qwq.pink"
+                },
+                {
+                    "type": "a",
+                    "text": "Reddit MtF 中文社区",
+                    "href": "https://www.reddit.com/r/mtf_zh"
+                },
+                {
+                    "type": "a",
+                    "text": "MtFHRT@groups.io",
+                    "href": "https://groups.io/g/MTFHRT"
+                },
+                {
+                    "type": "a",
+                    "text": "Shizu's HRT Guide",
+                    "href": "https://docs.hrt.guide"
+                },
+                {
+                    "type": "a",
+                    "text": "生如夏花知识库·乳首开发",
+                    "href": "https://wiki.viva-la-vita.org/nipple"
+                },
+                {
+                    "type": "a",
+                    "text": "生如夏花知识库·前列腺开发",
+                    "href": "https://wiki.viva-la-vita.org/prostate"
+                },
+                {
+                    "type": "p",
+                    "text": "日语"
+                },
+                {
+                    "type": "a",
+                    "text": "MtF 情報発信サイト",
+                    "href": "https://joseika.com"
+                },
+                {
+                    "type": "a",
+                    "text": "日本性同一性障害・性別違和と共に生きる人々の会",
+                    "href": "https://gid.jp"
+                },
+                {
+                    "type": "a",
+                    "text": "Suporn Clinic 日本公式サイト",
+                    "href": "https://supornclinic.jp"
+                },
+                {
+                    "type": "a",
+                    "text": "女装ブロガー「ことのは」が運営する個人ブログ",
+                    "href": "https://www.tukinasikotonoha.com"
+                },
+                {
+                    "type": "p",
+                    "text": "英语"
+                },
+                {
+                    "type": "a",
+                    "text": "Reddit MtF wiki",
+                    "href": "https://www.reddit.com/r/mtf/wiki"
+                },
+                {
+                    "type": "a",
+                    "text": "Gender Analysis",
+                    "href": "https://genderanalysis.net"
+                },
+                {
+                    "type": "a",
+                    "text": "Sex Reassignment Surgery",
+                    "href": "https://en.wikipedia.org/wiki/Sex_reassignment_surgery_%28male-to-female%29"
+                },
+                {
+                    "type": "a",
+                    "text": "Feminizing hormone therapy",
+                    "href": "https://en.wikipedia.org/wiki/Feminizing_hormone_therapy"
+                },
+                {
+                    "type": "a",
+                    "text": "Transfeminine Science",
+                    "href": "https://transfemscience.org"
+                }
+            ]
+        }
+    ]
+}
