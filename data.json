@@ -105,6 +105,541 @@
                     "type": "a",
                     "text": "Transfeminine Science",
                     "href": "https://transfemscience.org"
+                },
+                {
+                    "type": "p",
+                    "text": "法语"
+                },
+                {
+                    "type": "a",
+                    "text": "Wiki Trans",
+                    "href": "https://wikitrans.co"
+                }
+            ]
+        },
+        {
+            "title": "Ftm",
+            "data": [
+                {
+                    "type": "p",
+                    "text": "中文"
+                },
+                {
+                    "type": "a",
+                    "href": "https://ftm.wiki",
+                    "text": "FtM.wiki"
+                },
+                {
+                    "type": "p",
+                    "text": "英文"
+                },
+                {
+                    "type": "a",
+                    "text": "TransGuys",
+                    "href": "https://transguys.com"
+                },
+                {
+                    "type": "a",
+                    "text": "Top Surgery Guide",
+                    "href": "https://www.topsurgery.net"
+                },
+                {
+                    "type": "a",
+                    "text": "Hudson's FtM Resource Guide",
+                    "href": "http://www.ftmguide.org"
+                },
+                {
+                    "type": "a",
+                    "text": "Reddit FtM wiki",
+                    "href": "https://www.reddit.com/r/ftm/wiki"
+                },
+                {
+                    "type": "a",
+                    "text": "Sex Reassignment Surgery",
+                    "href": "https://en.wikipedia.org/wiki/Sex_reassignment_surgery_%28female-to-male%29"
+                },
+                {
+                    "type": "a",
+                    "text": "Masculinizing hormone therapy",
+                    "href": "https://en.wikipedia.org/wiki/Masculinizing_hormone_therapy"
+                }
+            ]
+        },
+        {
+            "title": "RLE",
+            "data": [
+                {
+                    "type": "p",
+                    "text": "Real life experience"
+                },
+                {
+                    "type": "a",
+                    "text": "RLE.wiki",
+                    "href": "https://rle.wiki"
+                },
+                {
+                    "type": "a",
+                    "text": "成为女孩子的声音！",
+                    "href": "https://mtf-wiki.github.io/jyosei-guide/"
+                },
+                {
+                    "type": "a",
+                    "text": "无性别卫生间分享计划",
+                    "href": "https://github.com/xfoxfu/KagurazakaToilet"
+                }
+            ]
+        },
+        {
+            "title": "HRT",
+            "data": [
+                {
+                    "type": "p",
+                    "text": "Hormone replacement therapy"
+                },
+                {
+                    "type": "a",
+                    "text": "HRT.Cafe",
+                    "href": "https://hrt.cafe"
+                },
+                {
+                    "type": "a",
+                    "text": "DIY HRT",
+                    "href": "https://diyhrt.wiki"
+                },
+                {
+                    "type": "a",
+                    "text": "DIY HRT (frama)",
+                    "href": "https://diyhrt.frama.io"
+                }
+            ]
+        },
+        {
+            "title": "ADHD/ASD",
+            "data": [
+                {
+                    "type": "a",
+                    "text": "中国大陆 ADHD/ASD 成人可确诊地图",
+                    "href": "https://qingshanasd.cn/medical-map/"
+                }
+            ]
+        },
+        {
+            "title": "APP",
+            "data": [
+                {
+                    "type": "a",
+                    "text": "transHelper (Android)",
+                    "href": "https://github.com/MsZhu-trans/transHelper-release"
+                }
+            ]
+        },
+        {
+            "title": "社区",
+            "data": [
+                {
+                    "type": "a",
+                    "text": "跨岛",
+                    "href": "https://chat.transland.lgbt"
+                },
+                {
+                    "type": "a",
+                    "text": "那些秋叶",
+                    "href": "https://one-among.us"
+                },
+                {
+                    "type": "a",
+                    "text": "limelight.moe",
+                    "href": "https://limelight.moe"
+                }
+            ]
+        },
+        {
+            "title": "NGO",
+            "data": [
+                {
+                    "type": "p",
+                    "text": "中国大陆"
+                },
+                {
+                    "type": "a",
+                    "text": "跨儿心理小组",
+                    "href": "https://kuaerxinli.org"
+                },
+                {
+                    "type": "a",
+                    "text": "庄尼心理咨询中心",
+                    "href": "http://www.johnnycenter.com"
+                },
+                {
+                    "type": "a",
+                    "text": "LGBTQIA in China",
+                    "href": "https://github.com/LGBT-CN/LGBTQIA-In-China"
+                },
+                {
+                    "type": "p",
+                    "text": "香港"
+                },
+                {
+                    "type": "a",
+                    "text": "跨樂園",
+                    "href": "https://www.transnation.asia"
+                },
+                {
+                    "type": "p",
+                    "text": "台湾"
+                },
+                {
+                    "type": "a",
+                    "text": "台灣性別不明關懷協會",
+                    "href": "https://www.istscare.org"
+                },
+                {
+                    "type": "a",
+                    "text": "不明小站",
+                    "href": "https://trnt.lgbt"
+                }
+            ]
+        },
+        {
+            "title": "Bilibili",
+            "data": [
+                {
+                    "type": "p",
+                    "text": "在 Bilibili 开设账号的跨性别友好医生们"
+                },
+                {
+                    "type": "a",
+                    "text": "潘柏林",
+                    "href": "https://space.bilibili.com/2085711307"
+                },
+                {
+                    "type": "a",
+                    "text": "陈臻",
+                    "href": "https://space.bilibili.com/674195647"
+                }
+            ]
+        },
+        {
+            "title": "微信公众号",
+            "data": [
+                {
+                    "type": "a",
+                    "text": "跨儿说 TransTalks (TransTalks)",
+                    "href": "https://open.weixin.qq.com/qr/code?username=TransTalks"
+                },
+                {
+                    "type": "a",
+                    "text": "跨青年 (TSECC2017)",
+                    "href": "https://open.weixin.qq.com/qr/code?username=TSECC2017"
+                },
+                {
+                    "type": "a",
+                    "text": "跨儿心理 (kuaerxinli)",
+                    "href": "https://open.weixin.qq.com/qr/code?username=kuaerxinli"
+                },
+                {
+                    "type": "a",
+                    "text": "跨性别热线 (TransHotline)",
+                    "href": "https://open.weixin.qq.com/qr/code?username=TransHotline"
+                },
+                {
+                    "type": "a",
+                    "text": "飞天猫兄弟盟 (gh_bbdc988d3885)",
+                    "href": "https://open.weixin.qq.com/qr/code?username=gh_bbdc988d3885"
+                },
+                {
+                    "type": "a",
+                    "text": "女友组 girlfans (girlfans2009GZ)",
+                    "href": "https://open.weixin.qq.com/qr/code?username=girlfans2009GZ"
+                },
+                {
+                    "type": "a",
+                    "text": "同城青少年资源中心 (glcac-03)",
+                    "href": "https://open.weixin.qq.com/qr/code?username=glcac-03"
+                },
+                {
+                    "type": "a",
+                    "text": "北京同志中心 (beitong2021)",
+                    "href": "https://open.weixin.qq.com/qr/code?username=beitong2021"
+                },
+                {
+                    "type": "a",
+                    "text": "lesgo 苏州拉拉公益小组 (lesgosuzhoulala)",
+                    "href": "https://open.weixin.qq.com/qr/code?username=lesgosuzhoulala"
+                },
+                {
+                    "type": "a",
+                    "text": "云南平行健康咨询发展中心 (ynpx087163379065)",
+                    "href": "https://open.weixin.qq.com/qr/code?username=ynpx087163379065"
+                },
+                {
+                    "type": "a",
+                    "text": "Queer Squad (gh_5d4c0fed0e4c)",
+                    "href": "https://open.weixin.qq.com/qr/code?username=gh_5d4c0fed0e4c"
+                },
+                {
+                    "type": "a",
+                    "text": "镇镇的彩虹 (rainbowzz2016)",
+                    "href": "https://open.weixin.qq.com/qr/code?username=rainbowzz2016"
+                },
+                {
+                    "type": "a",
+                    "text": "跨赛斯 (trans_0201)",
+                    "href": "https://open.weixin.qq.com/qr/code?username=trans_0201"
+                }
+            ]
+        },
+        {
+            "title": "资料",
+            "data": [
+                {
+                    "type": "a",
+                    "text": "awesome trans",
+                    "href": "https://github.com/awesometrans/awesometrans_zh"
+                },
+                {
+                    "type": "a",
+                    "text": "Transgender Resources Center",
+                    "href": "https://tgr.org.hk"
+                },
+                {
+                    "type": "a",
+                    "text": "Transgender lost years",
+                    "href": "https://github.com/KristallWang/Transgender-lost-years"
+                },
+                {
+                    "type": "a",
+                    "text": "UCSF Transgender Care",
+                    "href": "https://transcare.ucsf.edu"
+                },
+                {
+                    "type": "a",
+                    "text": "Healthy Place",
+                    "href": "https://www.healthyplace.com"
+                },
+                {
+                    "type": "a",
+                    "text": "跨性别在线·文档库",
+                    "href": "https://docs.transonline.org.cn"
+                },
+                {
+                    "type": "a",
+                    "text": "LGBT 文件资料索引库",
+                    "href": "https://cnlgbtdata.com"
+                }
+            ]
+        },
+        {
+            "title": "文化/影视作品",
+            "data": [
+                {
+                    "type": "a",
+                    "text": "LGBT fiction",
+                    "href": "https://zh.wikipedia.org/wiki/Template:LGBT_fiction"
+                },
+                {
+                    "type": "p",
+                    "text": "小说"
+                },
+                {
+                    "type": "a",
+                    "text": "想要变成鹰的鱼（原名：药娘的天空）",
+                    "href": "https://book.sfacg.com/Novel/48251"
+                },
+                {
+                    "type": "a",
+                    "text": "Luna (2004)",
+                    "href": "https://en.wikipedia.org/wiki/Luna_%28Peters_novel%29"
+                },
+                {
+                    "type": "p",
+                    "text": "纪实文学"
+                },
+                {
+                    "type": "a",
+                    "text": "Becoming Nicole: The Extraordinary Transformation of an Ordinary Family（一般译作：「成为妮可：一个普通美国家庭的艰难改变」)",
+                    "href": "https://books.google.com/books?id=hIjZCgAAQBAJ"
+                },
+                {
+                    "type": "p",
+                    "text": "电影"
+                },
+                {
+                    "type": "a",
+                    "text": "Boys Don't Cry (1999)（美国，一般译作「男孩别哭」）",
+                    "href": "https://en.wikipedia.org/wiki/Boys_Don%27t_Cry_%281999_film%29"
+                },
+                {
+                    "type": "a",
+                    "text": "Soldier's Girl (2003)",
+                    "href": "https://en.wikipedia.org/wiki/Soldier%27s_Girl"
+                },
+                {
+                    "type": "a",
+                    "text": "蝴蝶 (2004)（香港）",
+                    "href": "https://zh.wikipedia.org/wiki/蝴蝶_%282004年電影%29"
+                },
+                {
+                    "type": "a",
+                    "text": "Trans America (2005)（美国，一般译作「穿越美国」）",
+                    "href": "https://en.wikipedia.org/wiki/Transamerica_%28film%29"
+                },
+                {
+                    "type": "a",
+                    "text": "Just Charlie (2010)（美国，一般译作「我是女生」）",
+                    "href": "https://www.imdb.com/title/tt4838248/"
+                },
+                {
+                    "type": "a",
+                    "text": "The Danish Girl (2015)（美国，一般译作「丹麦女孩」）",
+                    "href": "https://en.wikipedia.org/wiki/The_Danish_Girl_%28film%29"
+                },
+                {
+                    "type": "a",
+                    "text": "彼らが本気で編むときは、 (2017)（日本，一般译作「人生密密缝」）",
+                    "href": "https://ja.wikipedia.org/wiki/彼らが本気で編むときは、"
+                },
+                {
+                    "type": "a",
+                    "text": "Girl (2018)（美国，一般译作「女孩」）",
+                    "href": "https://en.wikipedia.org/wiki/Girl_%282018_film%29"
+                },
+                {
+                    "type": "a",
+                    "text": "翠絲 (2018)（香港）",
+                    "href": "https://zh.wikipedia.org/wiki/翠絲_%28電影%29"
+                },
+                {
+                    "type": "p",
+                    "text": "电视剧"
+                },
+                {
+                    "type": "a",
+                    "text": "私が私であるために (2006)（日本，一般译作「为己而生」）",
+                    "href": "https://ja.wikipedia.org/wiki/私が私であるために"
+                },
+                {
+                    "type": "a",
+                    "text": "Orange is the New Black (2013)（美国，一般译作「女子监狱」）",
+                    "href": "https://en.wikipedia.org/wiki/Orange_Is_the_New_Black"
+                },
+                {
+                    "type": "a",
+                    "text": "Sense8 (2015)（美国）",
+                    "href": "https://en.wikipedia.org/wiki/Sense8"
+                },
+                {
+                    "type": "a",
+                    "text": "Pose (2018)（美国，一般译作「姿态」）",
+                    "href": "https://en.wikipedia.org/wiki/Pose_%28TV_series%29"
+                },
+                {
+                    "type": "a",
+                    "text": "女子的生活 (2018)（日本，一般译作「女子的生活」）",
+                    "href": "https://ja.wikipedia.org/wiki/女子的生 活"
+                },
+                {
+                    "type": "a",
+                    "text": "Euphoria (2019)",
+                    "href": "https://en.wikipedia.org/wiki/Euphoria_%28American_TV_series%29"
+                },
+                {
+                    "type": "a",
+                    "text": "Veneno (2020)",
+                    "href": "https://en.wikipedia.org/wiki/Veneno_%28TV_series%29"
+                },
+                {
+                    "type": "p",
+                    "text": "漫画"
+                },
+                {
+                    "type": "a",
+                    "text": "IS〜男でも女でもない性〜",
+                    "href": "https://ja.wikipedia.org/wiki/IS〜男でも女でもない性〜"
+                },
+                {
+                    "type": "a",
+                    "text": "不可解なぼくのすべてを（一般译作：「不可解的我的一切」）",
+                    "href": "https://comic.pixiv.net/works/5315"
+                },
+                {
+                    "type": "a",
+                    "text": "先輩はおとこのこ（一般译作：「前辈是伪娘」）",
+                    "href": "https://ja.wikipedia.org/wiki/先輩はおとこのこ"
+                },
+                {
+                    "type": "a",
+                    "text": "生まれる性別をまちがえた!（一般译作：「我生错性别了！」）",
+                    "href": "https://www.amazon.co.jp/dp/4041052386"
+                },
+                {
+                    "type": "a",
+                    "text": "致性别为「蒙娜丽莎」的你。",
+                    "href": "https://manga.bilibili.com/detail/mc28295"
+                },
+                {
+                    "type": "a",
+                    "text": "当我不再成为我",
+                    "href": "https://www.manhuagui.com/comic/31859/"
+                },
+                {
+                    "type": "p",
+                    "text": "游戏"
+                },
+                {
+                    "type": "a",
+                    "text": "Celeste",
+                    "href": "https://en.wikipedia.org/wiki/Celeste_%28video_game%29"
+                }
+            ]
+        },
+        {
+            "title": "文章",
+            "data": [
+                {
+                    "type": "a",
+                    "text": "这就是性别烦躁，供参考",
+                    "href": "https://genderdysphoria.fyi/zh/"
+                },
+                {
+                    "type": "a",
+                    "text": "医保开 HRT（激素代替治疗）药物流程",
+                    "href": "https://zhuanlan.zhihu.com/p/387187000"
+                }
+            ]
+        },
+        {
+            "title": "报告/书籍",
+            "data": [
+                {
+                    "type": "a",
+                    "text": "跨性别者性别认同的法律承认 — 中国相关法律和政策评估报告",
+                    "href": "https://www.cn.undp.org/content/china/zh/home/library/democratic_governance/legal-gender-recognition-in-china--a-legal-and-policy-review-.html"
+                },
+                {
+                    "type": "a",
+                    "text": "中国性少数群体生存状况 - 基于性倾向，性别认同和性别表达的社会态度调查报告",
+                    "href": "https://www.cn.undp.org/content/china/zh/home/library/democratic_governance/being-lgbt-in-china/"
+                },
+                {
+                    "type": "a",
+                    "text": "为亚洲及太平洋地区跨性别者及其社群提供完善照护之构想",
+                    "href": "https://www.cn.undp.org/content/china/zh/home/library/democratic_governance/blueprint-for-the-provision-of-comprehensive-care-for-trans-peop.html"
+                },
+                {
+                    "type": "a",
+                    "text": "跨性别女性的评估和管理",
+                    "href": "https://www.uptodate.com/contents/zh-Hans/transgender-women-evaluation-and-management"
+                },
+                {
+                    "type": "a",
+                    "text": "跨性别男性的评估与管理",
+                    "href": "https://www.uptodate.com/contents/zh-Hans/transgender-men-evaluation-and-management"
+                },
+                {
+                    "type": "a",
+                    "text": "跨性别男性的医疗保健医护人员指南（英文）",
+                    "href": "https://www.nickgorton.org/2021/01/17/medical-therapy-and-health-maintenance-for-transgender-men/"
                 }
             ]
         }

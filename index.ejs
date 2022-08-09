@@ -17,7 +17,7 @@
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary">
     <meta property="twitter:title" content="跨性别导航">
-    <link rel="stylesheet" href="/assets/css/style.css?v=83a121813ef2d127747e7028f5b5c82c9012402e">
+    <link rel="stylesheet" href="./assets/css/style.css">
 
 </head>
 
@@ -32,22 +32,40 @@
                     <%= part.title %>
                 </h2>
                 <% for(const item of part.data) { %>
-                    <% if (item.type == "a") { %>
+                    <% if (item.type=="a" ) { %>
                         <div class="list-item">
-                            <a href= <%= item.href%> >
+                            <a href=<%=item.href%> >
                                 <%= item.text %>
                             </a>
-                        </div>  
-                    <% } else if (item.type == "p") { %>
+                        </div>
+                    <% } else if (item.type=="p" ) { %>
                         <p>
                             <%= item.text %>
                         </p>
-                    <% } %> 
-                      
+                    <% } %>
                 <% } %>
-                 
-
             </div>
         <% } %>
     </div>
+    <div class="timeline">
+        <div class="card">
+            <ul>
+                <% for(const part of kuaer.data) { %>
+                    <li>
+                        <%= part.title %>
+                        <!-- <ul>
+                            <% for(const item of part.data) { %>
+                                <% if (item.type=="p" ) { %>
+                                    <li>
+                                        <%= item.text %>
+                                    </li>
+                                <% } %>
+                            <% } %>
+                        </ul> -->
+                    </li>
+                <% } %>
+            </ul>
+        </div>
+    </div>
+
 </body>

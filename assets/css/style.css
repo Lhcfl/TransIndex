@@ -1,0 +1,72 @@
+:root{
+    --primary: #000000;
+    --secondary: #ffffff;
+    --primary-rgb: 0,0,0;
+    --secondary-rgb: 255,255,255;
+    
+    --title-bg: #fafafaf0;
+    --title-text: #222222;
+    --border: #4f4f4f;
+    --shadow: #898989;
+    --card-bg: rgba(var(--secondary-rgb), 0.9);
+    --active-card-bg: rgba(var(--secondary-rgb), 1);
+}
+body{
+    background-color: #eeeeee;
+}
+.main-content {
+    width:70%;
+    padding-top: 55px;
+    align-items: flex-start;
+    display: flex;
+    flex-wrap: wrap;
+}
+.title {
+    border-bottom: 1px solid var(--border);
+    box-shadow: 0 2px 6px var(--shadow);
+    background-color: var(--title-bg);
+    z-index: 32;
+    display: flex;
+    position: fixed;
+    padding: 16px;
+    font-size: 24px;
+    line-height: 1.5;
+    color: var(--title-text);
+    align-items: center;
+    flex-wrap: nowrap;
+    margin: 0;
+    width:100%;
+    top:0;
+    left:0;
+}
+.card {
+    width:100%;
+    border-radius: 15px;
+    box-shadow: 0 1px 2px var(--shadow);
+    background-color: var(--card-bg);
+    padding: 16px;
+    line-height: 1.5;
+    margin: 15px;
+    flex-direction: column;
+    transition: all 0.5s;
+}
+.card:hover {
+    box-shadow: 0 2px 4px var(--shadow);
+    background-color: var(--active-card-bg);
+}
+.timeline {
+    width: 25%;
+    top: 70px;
+    right: 60px;
+    position: fixed;
+}
+.timeline .card {
+    padding: 15px;
+    font-size: 15px;
+}
+.timeline .card ul {
+    font-size: 15px;
+    list-style: none;
+    margin: 0 0;
+    padding: 10px;
+}
